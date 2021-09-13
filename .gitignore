@@ -130,3 +130,6 @@ dmypy.json
 
 # Mac Finder
 .DS_Store
+
+# Data (oversized csv files)
+data/
