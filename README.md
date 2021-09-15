@@ -23,7 +23,7 @@ Group 3 Phase 3: Jesse Markowitz, Angie Rincon, Meaghan Ross
 See the full analysis in the [Jupyter Notebook](google.com) or review [this presentation](google.com).
 
 Jesse Markowitz:  <br />
-Angie Rincon:  <br />
+Angie Rincon: angiekay.rincon@gmail.com <br />
 Meaghan Ross: mer423@nyu.edu <br />
 
 # Project Structure
