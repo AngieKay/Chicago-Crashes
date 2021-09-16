@@ -4,20 +4,43 @@ Group 3 Phase 3: Jesse Markowitz, Angie Rincon, Meaghan Ross
 # Overview
 ![image-1](https://tv-fanatic-res.cloudinary.com/iu/s--57Ju-BKE--/f_auto,q_auto/v1491016337/attachment/chicagopic1) <br />
 
+We analyzed data from Chicago Data Portal in order to make recommendations to the Chicago Department of Transportation for improving safety and decreasing fatal car crashes.
+
 # Business Understanding
 
+Chicago Department of Transportation would like to find ways to decrease fatal car accidents.
+
+Using the data from Chicago Data Portal, we would like to determine the key features that predict a fatal car crash and make appropriate recommendations.
 
 # Data Analysis & Methodology
 
+## Data
+The Chicago Data Portal provides datasets containing details of car crashes from 2013-present. We use two of these datasets:
+
+crashes contains details of each crash incident
+people contains details of each individual involved in each crash incident
+[crashes]
+
+## Selecting a target for prediction:
+## EDA
+## Models
 
 # Results
 
+*Final model here
+
 
 # Conclusion
+Needs to include (In order to prevent serious injuries and fatalities, Chicago DOT should:
+Increase public awareness of seatbelt and airbag  importance
+Ensure good lighting on roads
+Investigate sex differences in injury/fatality rate)
 
 
 # Next Steps
 
+Include information about vehicles to explore how car make and model impact severity of injury.
+Further exploration of crashes involving bicycles
 
 # For More Information
 See the full analysis in the [Jupyter Notebook](google.com) or review [this presentation](google.com).
