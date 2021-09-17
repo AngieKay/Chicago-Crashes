@@ -15,11 +15,15 @@ Using the data from Chicago Data Portal, we would like to determine the key feat
 # Data Analysis & Methodology
 
 ## Data
-The Chicago Data Portal provides datasets containing details of car crashes from 2013-present. We use two of these datasets:
 
-crashes contains details of each crash incident
-people contains details of each individual involved in each crash incident
-[crashes]
+The Chicago Data Portal provides datasets containing details of car crashes from 2013-present. 
+
+We use two of these datasets:
+
+[Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) contains details of each crash incident
+
+[People](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d) contains details of each individual involved in each crash incident
+
 
 ## Selecting a target for prediction:
 ## EDA
