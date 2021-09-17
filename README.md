@@ -32,7 +32,7 @@ We divided out target class into 4 categories. Our classes are highly imbalanced
 <img src="Images/target_percentages.PNG"><br>
 
 ## EDA
-<img src="Images/numerical_eda.png"><br>
+<img src=""><br>
 <img src="Images/injuries_fatalities_lighting.png"><br>
 <img src="Images/injuries_fatalities_by_sex.png"><br>
 <img src="Images/safety_equipment_used_not.png"><br>
