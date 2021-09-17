@@ -132,4 +132,4 @@ dmypy.json
 .DS_Store
 
 # Data (oversized csv files)
-data/
+*.csv

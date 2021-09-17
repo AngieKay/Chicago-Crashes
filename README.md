@@ -40,11 +40,11 @@ We divided out target class into 4 categories. Our classes are highly imbalanced
 ## Models
 
 What do want here? Confusion matrix from best of each type model (logreg, xgclass, decision tree, random forest)? Scores? Add wrap up table after finalizing everything. 
+<img src="Images/model_wrapup.PNG"><br>
 
-# Results
+# Final Model
 
-*Final model here
-
+<img src="Images/final_model.png"><br>
 
 
 # Conclusion
