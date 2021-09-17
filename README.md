@@ -26,16 +26,31 @@ We use two of these datasets:
 
 
 ## Selecting a target for prediction:
+
+We divided out target class into 4 categories. Our classes are highly imbalanced.
+
+<img src="Images/target_percentages.PNG"><br>
+
 ## EDA
+<img src="Images/numerical_eda.png"><br>
+<img src="Images/injuries_fatalities_lighting.png"><br>
+<img src="Images/injuries_fatalities_by_sex.png"><br>
+<img src="Images/safety_equipment_used_not.png"><br>
+
 ## Models
+
+What do want here? Confusion matrix from best of each type model (logreg, xgclass, decision tree, random forest)? Scores? Add wrap up table after finalizing everything. 
 
 # Results
 
 *Final model here
 
 
+
 # Conclusion
-Needs to include (In order to prevent serious injuries and fatalities, Chicago DOT should:
+
+
+In order to prevent serious injuries and fatalities, Chicago DOT should:
 Increase public awareness of seatbelt and airbag  importance
 Ensure good lighting on roads
 Investigate sex differences in injury/fatality rate)
